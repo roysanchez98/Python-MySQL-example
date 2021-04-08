@@ -1,0 +1,16 @@
+/Users/darkrocket14/PycharmProjects/pythonMySQL/venv/bin/python /Users/darkrocket14/PycharmProjects/pythonMySQL/testSQLdb.py
+It works!
+Database:  ('empdb',)
+Database:  ('information_schema',)
+Database:  ('mysql',)
+Database:  ('performance_schema',)
+Database:  ('sys',)
+Table:  ('employee',)
+('roy', 20000)
+('bob', 22000)
+('rem', 23000)
+('roy', 20000)
+('bob', 22000)
+('rem', 23000)
+
+Process finished with exit code 0
